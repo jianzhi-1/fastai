@@ -1,0 +1,11 @@
+# ignore all data folders
+images/
+image/
+data/
+bear/
+
+# ignore all pickle export files
+*.pkl
+
+# ignore all jpg images
+*.jpg
